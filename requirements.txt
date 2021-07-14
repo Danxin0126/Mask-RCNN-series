@@ -4,5 +4,6 @@ cython
 h5py
 Pillow
 scikit-image
+tensorflow==1.5
 keras
 jupyter
